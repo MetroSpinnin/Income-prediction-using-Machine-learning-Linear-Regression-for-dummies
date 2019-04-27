@@ -1,5 +1,5 @@
 # Author:Samuel Jim Nnamdi
-# Project: Prediction using decisionTree Algorithm
+# Project: Prediction using Linear&Logistic Regression Algorithm
 # Date: April 26th 2019
 
 # Import Libraries
